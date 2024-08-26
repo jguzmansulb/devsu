@@ -1,3 +1,11 @@
+# Terraform dot files
+.terraform
+.terraformrc
+**/.terraform/*
+.terraform.d
+*.tfstate
+*.tfstate.*
+
 # Logs
 logs
 *.log
